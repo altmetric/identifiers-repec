@@ -1,4 +1,4 @@
-# Identifiers - RePEc IDs [![Build Status](https://travis-ci.org/altmetric/identifiers-repec.svg?branch=master)](https://travis-ci.org/altmetric/identifiers-repec)
+# Identifiers - RePEc IDs 
 
 Extract, validate and normalize [RePEc IDs](https://en.wikipedia.org/wiki/Research_Papers_in_Economics).
 
@@ -28,6 +28,6 @@ We also maintain versions of this library for [Ruby](https://github.com/altmetri
 
 ## License
 
-Copyright © 2017 Altmetric LLP
+Copyright © 2017-2024 Altmetric LLP
 
 Distributed under the [MIT License](http://opensource.org/licenses/MIT).
