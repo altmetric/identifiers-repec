@@ -3,7 +3,7 @@
 Extract, validate and normalize [RePEc IDs](https://en.wikipedia.org/wiki/Research_Papers_in_Economics).
 
 **Current version:** 0.1.1  
-**Supported Node.js versions:** 4, 5, 6, 7
+**Supported Node.js versions:** 18, 20, 22, 23
 
 ## Installation
 
